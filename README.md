@@ -1,6 +1,6 @@
 # Analyzing PyBer Ridesharing Data
 
-## Project Purpose Explain the purpose of the new analysis.
+## Project Purpose
 The purpose of this analysis was to determine how the total weekly ridesharing ride fares differed between urban, suburban, and rural cities. Using python pandas and matplotlib, weekly fare trips from January 1, 2019 - April 30, 2019 for the three city types were calculated and visualized on a line graph. Data from the city_data.cvs and ride_data.cvs, which includeS data on pyber trips and drivers for several cities over a 4 month period, was analyzed to build these insights.
 
 ## Results 
@@ -12,6 +12,6 @@ However, average fares per ride and average fares per driver are significantly d
 
 Finally, total ride fares for urban cities ($39,854.38) was alomst 10x that of rural cities total fares ($4,327.93). Suburban cities fall in between the two, with a total fare of $4,327.93.
 
-## Summary provide three business recommendations to the CEO for addressing any disparities among the city types
-
-# Based on this data, to address the disparities between the 3 city types, the CEO should consider increasing the number of drivers there are in rural cities. Because of the scarcity of drivers,
+## Summary 
+provide three business recommendations to the CEO for addressing any disparities among the city types:
+Based on this data, to address the disparities between the 3 city types, the CEO should consider increasing the number of drivers there are in rural cities. Because of the scarcity of drivers,
